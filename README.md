@@ -27,7 +27,7 @@ The controller worked as exptectd when I adjusted their parameter values to fina
 ```
 pid_s.Init(0.33, 0.0027, 4.05);
 ```
-![alt adjust overshotting](https://github.com/zmandyhe/pid-controller/blob/master/pic/left-turn.png)
+![alt adjust overshotting](https://github.com/zmandyhe/pid-controller/blob/master/left-turn.png)
 
 ### Describe how the final hyperparameters were chosen.
 
